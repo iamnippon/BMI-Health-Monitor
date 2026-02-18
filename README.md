@@ -42,6 +42,35 @@ The goal is to demonstrate clean Android architecture, modern UI practices, and 
 
 ---
 
+Good. We’ll write this in a **professional, controlled, and non-aggressive** way.
+
+You do **not** want it to sound defensive or hostile.
+You want it to sound:
+
+* Professional
+* Commercially aware
+* Controlled
+* Confident
+
+Here is a strong version you can paste at the bottom of your README:
+
+---
+
+# 🔒 Proprietary Notice
+
+This repository contains a limited demo version of the project.
+
+The full production implementation is private and proprietary.
+
+Unauthorized use, reproduction, or commercial exploitation is strictly prohibited.
+
+Academic review access can be granted upon request.
+Commercial usage requires a formal licensing agreement.
+
+For inquiries, please contact the author directly.
+
+---
+
 # ✨ Features
 
 ## 📏 BMI Calculation (Offline)
