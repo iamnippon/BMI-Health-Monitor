@@ -1,0 +1,100 @@
+---
+
+# 🔐 Privacy Policy
+
+**BMI & Health**
+
+**Last updated:** February 2026
+
+---
+
+## 1. Introduction
+
+BMI & Health (“the app”) is a simple, offline-first BMI calculator designed to help users calculate and track their Body Mass Index (BMI).
+Your privacy is important to us. This Privacy Policy explains how the app handles user data.
+
+---
+
+## 2. Data Collection
+
+**BMI & Health does not collect any personal data.**
+
+The app:
+
+* Does **not** require account registration
+* Does **not** collect names, email addresses, phone numbers, or identifiers
+* Does **not** collect health data beyond BMI values stored locally on your device
+* Does **not** collect location data
+* Does **not** collect usage analytics
+
+All BMI calculations and history are stored **locally on the user’s device only**.
+
+---
+
+## 3. Data Storage
+
+Any information entered into the app (such as height, weight, age, and calculated BMI values) is:
+
+* Stored **only on the user’s device**
+* Never transmitted to any server
+* Never backed up to the cloud by the app
+* Removed if the app is uninstalled or if the user clears the app’s data
+
+The app uses Android’s local storage mechanisms to store BMI history for user convenience.
+
+---
+
+## 4. Data Sharing
+
+**BMI & Health does not share any data with third parties.**
+
+The app:
+
+* Does not sell data
+* Does not share data
+* Does not transmit data to external servers
+
+---
+
+## 5. Third-Party Services
+
+The app does **not** use:
+
+* Advertising services
+* Analytics services
+* Tracking SDKs
+
+The app may contain **external links** (such as Instagram, GitHub, LinkedIn, X, or a personal website).
+When you click these links, you are redirected to external websites, which have their own privacy policies. BMI & Health is not responsible for the privacy practices of those websites.
+
+---
+
+## 6. Children’s Privacy
+
+BMI & Health is **not designed for children under the age of 13**.
+The app does not knowingly collect any personal information from children.
+
+---
+
+## 7. Health Disclaimer
+
+BMI is a general health indicator and **not a medical diagnosis**.
+BMI & Health does not provide medical advice and should not replace professional healthcare consultation.
+
+---
+
+## 8. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time.
+Any changes will be reflected on this page with an updated revision date.
+
+---
+
+## 9. Contact Information
+
+If you have any questions about this Privacy Policy, you may contact the developer:
+
+**Developer:** Nippon Chowdhury
+**Website:** [https://iamnippon.dev](https://iamnippon.dev)
+
+---
