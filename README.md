@@ -12,6 +12,24 @@ The application combines accurate BMI calculation, local progress tracking, and 
 
 ---
 
+# 🖼 Screenshots
+
+## 🌤 Light Mode
+
+<p align="center">
+  <img src="screenshots/input_light.png" width="250"/>
+  <img src="screenshots/result_light.png" width="245"/>
+</p>
+
+## 🌙 Dark Mode
+
+<p align="center">
+  <img src="screenshots/input_dark.png" width="250"/>
+  <img src="screenshots/result_dark.png" width="245"/>
+</p>
+
+---
+
 # 🚀 Overview
 
 BMI & Health Companion is designed as a **hybrid architecture application**:
@@ -153,23 +171,6 @@ BMI & Health Companion is built with a privacy-first mindset.
 
 This ensures local health tracking remains independent of network access.
 
----
-
-# 🖼 Screenshots
-
-## 🌤 Light Mode
-
-<p align="center">
-  <img src="screenshots/input_light.png" width="250"/>
-  <img src="screenshots/result_light.png" width="245"/>
-</p>
-
-## 🌙 Dark Mode
-
-<p align="center">
-  <img src="screenshots/input_dark.png" width="250"/>
-  <img src="screenshots/result_dark.png" width="245"/>
-</p>
 
 ---
 
