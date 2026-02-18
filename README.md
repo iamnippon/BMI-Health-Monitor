@@ -312,7 +312,8 @@ If you find this project useful:
 
 # 📄 License
 
-Licensed under the **MIT License**.
+This repository is licensed under a Proprietary License.
+Unauthorized use is strictly prohibited..
 
 ---
 
